@@ -55,7 +55,7 @@ Took over an existing client system as second maintainer — shipping new featur
 
 ASP.NET Core (.NET 9) · EF Core · SQL Server · Angular 17 · Angular Material · Tailwind
 Delivered features end to end, e.g. a discount system spanning entity, migration, debt calculation and UI
-🎙️ Jarvis — AI voice agent (in progress)
+
 Whisper (speech-to-text) → Claude API → ElevenLabs (text-to-speech), served from an ASP.NET Core minimal API
 More
 Maqam — full-stack e-commerce app (ASP.NET Core MVC · EF Core · SQL Server)
@@ -72,7 +72,7 @@ Research Assistant — University of Michigan–Flint · 2023 – 2024
 
 🌱 Right now
 🎓 Part-time Full Stack Developer bootcamp at AXSOS Academy (Python, Java, MERN)
-🤖 Taking an AI Agents course and building Jarvis
+🤖 Taking an AI Agents course
 📱 Shipping PhysioLink to iOS via TestFlight
 💬 Open to freelance contracts and remote roles — backend APIs, Flutter apps, and business systems
 📈 GitHub stats
